@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programa
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaccruz)
 
 ##
-![](https://github-readme-stats.vercel.app/api?username=isaccruz78&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaccruz78&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=isaccruz78&theme=tokyonight&hide_border=false&include_all_commits=false&count_privat=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaccruz78&theme=tokyonight&hide_border=false&include_all_commits=false&count_privat=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=isaccruz78&icon=2&color=1)](https://visitcount.itsvg.in)
