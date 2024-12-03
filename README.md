@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente, estou cursando o ensino superior tecnológico em análise e desenvolvimento de sistemas pela universidade Estácio de Sá e estou à procura do meu primeiro estágio na área de tecnologia da informação. Anteriormente, trabalhei como auxiliar administrativo de forma autônoma. Desde cedo, tenho uma grande paixão por tecnologia, um interesse que permanece intenso até hoje. Sou uma pessoa determinada, persistente e sempre disposta a aprender coisas novas.<br><br>Busco oportunidades desafiadoras na área de tecnologia da informação, especialmente no desenvolvimento front-end. Meu objetivo é aplicar os conhecimentos teóricos e práticos que adquiri, contribuindo de maneira significativa e buscando crescimento profissional no mercado de trabalho.</p>
+<p align="left">Atualmente, estou cursando o ensino superior tecnológico em análise e desenvolvimento de sistemas pela universidade Estácio de Sá e estou à procura do meu primeiro estágio na área de tecnologia da informação. Desde cedo, tenho uma grande paixão por tecnologia, um interesse que permanece intenso até hoje. Sou uma pessoa determinada, persistente e sempre disposta a aprender coisas novas.<br><br>Busco oportunidades desafiadoras na área de tecnologia da informação, especialmente no desenvolvimento front-end. Meu objetivo é aplicar os conhecimentos teóricos e práticos que adquiri, contribuindo de maneira significativa e buscando crescimento profissional no mercado de trabalho.</p>
 
 ###
 
@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="34" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="34" alt="react.js logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="34" alt="scss logo"  />
 </div>
 
 ###
