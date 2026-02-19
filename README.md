@@ -1,47 +1,45 @@
-<h2 align="left">Olá!! Eu sou Isac Cruz 👋</h2>
-
-###
-
-<p align="left">Atualmente, estou cursando o ensino superior tecnológico em análise e desenvolvimento de sistemas pela universidade Estácio de Sá e estou à procura do meu primeiro estágio na área de tecnologia da informação. Desde cedo, tenho uma grande paixão por tecnologia, um interesse que permanece intenso até hoje. Sou uma pessoa determinada, persistente e sempre disposta a aprender coisas novas.<br><br>Busco oportunidades desafiadoras na área de tecnologia da informação, especialmente no desenvolvimento front-end. Meu objetivo é aplicar os conhecimentos teóricos e práticos que adquiri, contribuindo de maneira significativa e buscando crescimento profissional no mercado de trabalho.</p>
-
-###
-
-<h3 align="left">Tecnologias:</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="34" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="34" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="34" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="34" alt="react.js logo"  />
-</div>
-
-###
-
-<h3 align="left">Contatos:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/isaccruz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="34" alt="linkedin logo"  /></a>
-</div>
-<hr>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaccruz78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaccruz78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph"  />
-</div>
-
-###
+<h2 align="left">Hi 👋! My name is Isac Cruz and I'm a Front-End Developer, from Brazil.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/isaccruz78/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaccruz78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaccruz78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/killua-gon-hisoka-sleepy-tired-gif-11379221412510070948"  />
+
+###
+
+<div align="left">
+  <a href="https://discord.com/users/isaccsmd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/isaccruz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/isaccruz78/isaccruz78/output/snake.svg" alt="Snake animation" />
 
 ###
