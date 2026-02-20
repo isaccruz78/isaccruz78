@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="190" src="https://c.tenor.com/nesdlcEueKQAAAAd/tenor.gif"  />
+<img align="right" height="180" src="https://c.tenor.com/nesdlcEueKQAAAAd/tenor.gif"  />
 
 ### Skills
 
