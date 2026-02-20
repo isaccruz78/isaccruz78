@@ -1,6 +1,6 @@
 <div>
   <img height="50" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Isac+Cruz!;Futuro+FrontEnd+Developer."  />
-<img align="right" height="180" src="https://c.tenor.com/nesdlcEueKQAAAAd/tenor.gif"  />
+<img align="right" height="190" src="https://c.tenor.com/nesdlcEueKQAAAAd/tenor.gif"  />
 </div>
 
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na Uninter e apaixonado por tecnologia, programação e design. Quero construir minha carreira como Desenvolvedor Front-End, criando interfaces modernas, responsivas e intuitivas.Tenho conhecimento em HTML, CSS, SASS, JavaScript e React, e me mantenho em constante atualização na área por meio de estudos e prática contínua. Estou em busca de uma oportunidade de estágio na área de Front-End para aplicar meus conhecimentos, ganhar experiência prática e evoluir profissionalmente.</p>
