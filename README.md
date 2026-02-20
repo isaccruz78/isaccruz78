@@ -2,8 +2,10 @@
 
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na Uninter e apaixonado por tecnologia, programação e design. Quero construir minha carreira como Desenvolvedor Front-End, criando interfaces modernas, responsivas e intuitivas.Tenho conhecimento em HTML, CSS, SASS, JavaScript e React, e me mantenho em constante atualização na área por meio de estudos e prática contínua. Estou em busca de uma oportunidade de estágio na área de Front-End para aplicar meus conhecimentos, ganhar experiência prática e evoluir profissionalmente.</p>
 
-### My Skills
+<img align="right" height="182" src="https://c.tenor.com/nesdlcEueKQAAAAd/tenor.gif"/>
 
+
+### My Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -29,5 +31,6 @@
   <a href="https://discord.com/isaccsmd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
+
  
 <img width="100%" src="https://raw.githubusercontent.com/isaccruz78/isaccruz78/output/snake.svg" alt="Snake animation" />
